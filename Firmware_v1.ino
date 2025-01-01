@@ -7,8 +7,8 @@
 #include <WiFiUdp.h>
 
 WiFiUDP Udp;
-char ssid[] = "Llama Speed";
-char password[] = "9542942625";
+char ssid[] = "#########";
+char password[] = "##########";
 IPAddress localIP(10, 0, 0, 10);
 IPAddress destIP(10, 0, 0, 3);
 const int port = 8000;
